@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Roshan karki</h1>
 <h3 align="center">A passionate MERN developer from NEPAL</h3>
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbEvfIncewh9nBBZCDXoSnDfNNfwwD90ipMrccdxASEap6OirBvVAeZ6yDGQjvMb5NHh0&usqp=CAU" alt="codding" width="400"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankc00&label=Profile%20views&color=0e75b6&style=flat" alt="roshankc00" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankc00" alt="roshankc00" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [BOOTCAMP MANAGEMENT SYSTEM](https://github.com/roshankc00/Bootcamp-management-system)
+
 - 🌱 I’m currently learning **MERN**
+
+- 🔭 I’m currently working on [HOTEL-MANAGEMENT-SYSTEM](https://github.com/roshankc00/Hotel_management_system_backend)
 
 - 💬 Ask me about **MERN**
 
