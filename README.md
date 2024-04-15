@@ -10,6 +10,7 @@ g<h1 align="center">Hi 👋, I'm Roshan karki</h1>
 - im learning **DevOps,graphql and nestjs**
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
+- 📫 Read my latest Articles  **[rohitkc8848@gmail.com](https://medium.com/@rohitkc8848)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
