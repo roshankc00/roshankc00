@@ -9,7 +9,7 @@ g<h1 align="center">Hi 👋, I'm Roshan karki</h1>
 - 📫 How to reach me **rohitkc8848@gmail.com**
 
 ### Latest Blogs
-- <a href="https://medium.com/@rohitkc8848/solid-design-principles-using-typesci-d2cd9c14089a" target="blank">
+ <a href="https://medium.com/@rohitkc8848/solid-design-principles-using-typesci-d2cd9c14089a" target="blank">
   Solid Design Principle
 </a>
 - <a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">
