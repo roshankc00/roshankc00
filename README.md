@@ -13,7 +13,7 @@ g<h1 align="center">Hi 👋, I'm Roshan karki</h1>
   Solid Design Principle
 </a>
 - <a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">
-  Scaling web socket server (PubSub)
+   Scaling web socket server (PubSub)
 </a>
 
 
