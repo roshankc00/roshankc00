@@ -6,10 +6,17 @@ g<h1 align="center">Hi 👋, I'm Roshan karki</h1>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- im learning **Databases python**
+
+<h1 align="center">Latest Blogs</h1>
+-
+<a href="https://medium.com/@rohitkc8848/solid-design-principles-using-typesci-d2cd9c14089a" target="blank">
+  Solid Design Principle
+</a>
+<a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">
+  Scaling websocket service PubSub
+</a>
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
-- 📫 Read my latest Blogs   **[(https://medium.com/@rohitkc8848)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
