@@ -8,6 +8,7 @@ g<h1 align="center">Hi 👋, I'm Roshan karki</h1>
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
 - 📫 Currently Iam learning **Kubernetes, jenkins, ansible, Teraform**
+- 📫 this year 2081 goal is to master these concept at some level  **Kubernetes, jenkins, ansible, Teraform**
 
 ### Latest Blogs
 - <a href="https://medium.com/@rohitkc8848/solid-design-principles-using-typesci-d2cd9c14089a" target="blank">
