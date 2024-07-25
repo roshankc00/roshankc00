@@ -11,9 +11,10 @@
 - 📫 this year 2081 goal is to master these concept at some level  **Kubernetes, jenkins, ansible, Teraform , Database optimization, **
 
 ### Latest Blogs
-- <a href="https://medium.com/@rohitkc8848/solid-design-principles-using-typesci-d2cd9c14089a" target="blank">
+- <h1></h1> <a href="https://medium.com/@rohitkc8848/solid-design-principles-using-typesci-d2cd9c14089a" target="blank">
   Solid Design Principle
 </a>
+<h1/>
 - <a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">
    Scaling web socket server (PubSub)
 </a>
