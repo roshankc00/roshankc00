@@ -1,4 +1,4 @@
-g<h1 align="center">Hi 👋, I'm Roshan karki</h1>
+<h1 align="center">Hi 👋, I'm Roshan karki</h1>
 <h3 align="center">A passionate Full stack developer from NEPAL</h3>
 
 
