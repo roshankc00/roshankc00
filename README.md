@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
+- 📫 Currently Iam working with Nest js and Aws*
 - 📫 Currently Iam learning **Kubernetes, jenkins, ansible, Teraform**
 - 📫 this year 2081 goal is to master these concept at some level  **Kubernetes, jenkins, ansible, Teraform , Database optimization, **
 
