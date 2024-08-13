@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
-- 📫 Currently Iam working with Nest js and Aws*
+- 📫 Currently Iam working as Backend Developer at FiveOne*
 - 📫 Currently Iam  building https://nepque.com/ from Scratch with Nest js an Nextjs*
 - 📫 Currently Iam Building  https://digital-class.vercel.app with Nest js and Aws*
 - 📫 Currently Iam learning **Kubernetes, jenkins, ansible, Teraform**
