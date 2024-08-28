@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
 - 📫 Currently Iam working as Backend Developer at FiveOne*
-- 📫 Currently Iam  building https://nepque.com/ from Scratch with Nest js an Nextjs*
-- 📫 Currently Iam Building  https://digital-class.vercel.app with Nest js and Aws*
 - 📫 Currently Iam learning **Kubernetes, jenkins, ansible, Teraform**
 - 📫 this year 2081 goal is to master these concept at some level  **Kubernetes, jenkins, ansible, Teraform , Database optimization, **
 
