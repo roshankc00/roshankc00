@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
 - 📫 Currently Iam working as Backend Developer at FiveOne*
-- 📫 I Love building cool server side applications 
+- 📫 I Love building cool server side stuffs
 - 📫 Currently Iam learning **Kubernetes, jenkins, ansible, Teraform**
 - 📫 this year 2081 goal is to master these concept at some level  **Kubernetes, jenkins, ansible, Teraform , Database optimization, **
 
