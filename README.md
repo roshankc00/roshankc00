@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan karki</h1>
-<h3 align="center">A Young Backend Developer from NEPAL</h3>
+<h3 align="center">A Backend Developer from NEPAL</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankc00" alt="roshankc00" /></a> </p>
