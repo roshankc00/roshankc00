@@ -11,8 +11,6 @@
 - 📫 View My  <a href="https://my-portfolio-azure-sigma-23.vercel.app/"> Portfolio </a>*
 - 📫 Currently Iam working with Nodejs and Aws*
 - 📫 I Love building cool server side stuffs
-- 📫 Currently Iam learning **Kubernetes, jenkins, ansible, Teraform**
-- 📫 this year 2081 goal is to master these concept at some level  **Kubernetes, jenkins, ansible, Teraform , Database optimization, **
 
 ### Latest Blogs
 - <a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">Scaling web socket server (PubSub)</a>
