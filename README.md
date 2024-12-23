@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
-- 📫 Currently Iam working as Backend Developer at <a href="https://fiveone.app/"> FiveOne </a>*
 - 📫 View My  <a href="https://my-portfolio-azure-sigma-23.vercel.app/"> Portfolio </a>*
 - 📫 Currently Iam working with Nodejs and Aws*
 - 📫 I Love building cool server side stuffs
