@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
 - 📫 View My  <a href="https://my-portfolio-azure-sigma-23.vercel.app/"> Portfolio </a>*
-- 📫 Currently Iam working at  <a href="xdezo.co.uk/"> Portfolio </a>* as a Full Stack Software Engineer.
+- 📫 Currently Iam working at  <a href="xdezo.co.uk/"> Xdezo </a> as a Full Stack Software Engineer.
 - 📫 I Love building cool server side stuffs
 
 ### Latest Blogs
