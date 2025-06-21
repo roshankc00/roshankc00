@@ -10,6 +10,7 @@
 - 📫 View My  <a href="https://my-portfolio-azure-sigma-23.vercel.app/"> Portfolio </a>*
 - 📫 Currently Iam working at  <a href="https://xdezo.co.uk/"> Xdezo </a> as a Full Stack Software Engineer.
 - 📫 I Love building cool server side stuffs
+- Hey devs 👨‍💻👩‍💻 — Don't just code every single day . Take care of your health too. You're not a machine 🤖❤️ #CodeSmart #StayHuman
 
 ### Latest Blogs
 - <a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">Scaling web socket server (PubSub)</a>
