@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **rohitkc8848@gmail.com**
 - 📫 I Love building cool server side stuffs
-- 📫 Hey devs 👨‍💻👩‍💻 — Don't just code every single day . Take care of your health too. You're not a machine 🤖❤️ #CodeSmart #StayHuman
 
 ### Latest Blogs
 - <a href="https://medium.com/@rohitkc8848/how-i-scaled-web-socket-server-fa8faa8f89ad" target="blank">Scaling web socket server (PubSub)</a>
