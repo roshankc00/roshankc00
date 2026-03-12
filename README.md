@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **rohitkc8848@gmail.com**
+- 📫 How to reach me **dev.roshankarki@gmail.com**
 - 📫 I Love building cool server side stuffs
 
 ### Latest Blogs
