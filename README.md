@@ -2,8 +2,6 @@
 <h3 align="center"> A Software Engineer.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankc00" alt="roshankc00" /></a> </p>
-
 - 📫 How to reach me **dev.roshankarki@gmail.com**
 - 📫 I Love building cool server side stuffs
 
