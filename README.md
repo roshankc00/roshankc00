@@ -42,6 +42,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshankc00&show_icons=true&theme=default&locale=en)
