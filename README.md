@@ -7,7 +7,7 @@
 📫 Reach me at **dev.roshankarki@gmail.com**
 💡 I love building cool server-side stuff
 
-I Write things here : http://blog.roshankarki1.com.np
+I Write things here : https://blog.roshankarki1.com.np
 
 ---
 
