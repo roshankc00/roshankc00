@@ -2,7 +2,7 @@
 
 ### A Software Engineer
 
-> *If I'm not sleeping, then I'm probably building something cool.*
+> *I am a backend engineer with 3+ years of experience shipping production infrastructure for concurrent users. I focus on clean architecture, TypeScript-first Node.js codebases, and systems that are observable, testable, and resilient when things go wrong.*
 
 📫 Reach me at **dev.roshankarki@gmail.com**
 💡 I love building cool server-side stuff
