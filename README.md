@@ -4,6 +4,11 @@
 
 > *I am a backend engineer with 3+ years of experience shipping production infrastructure for concurrent users. I focus on clean architecture, TypeScript-first Node.js codebases, and systems that are observable, testable, and resilient when things go wrong.*
 
+Through my engineering lab, I also work on **Tier 1, Tier 2, and Tier 3 backend audits**, covering application and database performance, distributed systems, infrastructure, observability, and production reliability.
+
+🔬 **Engineering Lab:** https://lab.roshankarki1.com.np
+
+
 📫 Reach me at **dev.roshankarki@gmail.com**
 💡 I love building cool server-side stuff
 
