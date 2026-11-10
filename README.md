@@ -2,9 +2,9 @@
 
 ### A Software Engineer
 
-> *I am a backend engineer with 3+ years of experience shipping production infrastructure for concurrent users. I focus on clean architecture, TypeScript-first Node.js codebases, and systems that are observable, testable, and resilient when things go wrong.*
+> I am a backend engineer with 4+ years of experience building and shipping production systems. I focus on clean architecture, TypeScript-first Node.js codebases, database performance, distributed systems, and building infrastructure that remains reliable as products scale.
 
-Through my engineering lab, I also work on **Tier 1, Tier 2, and Tier 3 backend audits**, covering application and database performance, distributed systems, infrastructure, observability, and production reliability.
+I enjoy understanding how things work internally, from Node.js event loops and PostgreSQL storage to Linux networking, message queues, and distributed architectures.
 
 🔬 **Engineering Lab:** https://lab.roshankarki1.com.np
 
